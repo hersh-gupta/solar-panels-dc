@@ -1,0 +1,20 @@
+---
+title: "Solar Panels DC"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+Analysis of solar construction permits. 
+
+## Code
+
+Analysis conducted in R:
+
+* Use `renv::restore()` to recreate R environment
+
+* Run `01-analysis.R` to conduct analysis
